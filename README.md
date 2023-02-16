@@ -1,6 +1,10 @@
 # MODULE-9-CHALLENGE
 sql-challenge
 
+MODULE_9 SQL -TABLE SCHEMATA
+MODULE_9 SQL - QUERIES
+
+
 Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
